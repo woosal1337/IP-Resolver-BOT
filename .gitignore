@@ -1,0 +1,6 @@
+*.db
+*.db-journal
+*.passwords
+__pycache__
+lib/bot/token.0
+*.passwords
